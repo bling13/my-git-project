@@ -7,6 +7,8 @@
 
 $arr = [1, 2, 3, 4, 5, 6, 7];
 
-// ... votre code ici
+foreach ($arr as $nombre){
+    echo "$nombre \n";
+}
 
 
