@@ -13,7 +13,7 @@ class DefaultController extends AbstractController
      */
     public function index()
     {
-        // Making some computing
+        // Making some computation
         $a = 2;
         $b = 3;
         $sum = $a + $b;
