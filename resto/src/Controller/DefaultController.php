@@ -18,6 +18,7 @@ class DefaultController extends AbstractController
         $b = 3;
         $sum = $a + $b;
 
+        // Rendering
         return $this->render(
             // Template name
             "default/index.html.twig",
